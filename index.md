@@ -65,7 +65,7 @@ We are accepting paper submissions related to generalization and failure handlin
     const distance = countdownDate1 - now;
 
     if (distance < 0) {
-      countdownElement1.innerHTML = "The first event has started!";
+      countdownElement1.innerHTML = "0d 0h 0m 0s";
       return;
     }
 

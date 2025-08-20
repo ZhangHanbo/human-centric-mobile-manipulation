@@ -21,6 +21,6 @@ Submissions should be in MP4 format (H.264 encoding for better compatibility), a
 
 **Important Dates**  (All deadlines are AoE):
 
-* Submission portal opens: 1st Aug 2025
+* Submission portal opens: ~~1st Aug 2025~~
 * Video submission deadline: 17th Oct 2025
 * Workshop date: 20th Oct 2025 (PM)

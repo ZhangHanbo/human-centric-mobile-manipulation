@@ -1,5 +1,5 @@
 ---
-sequence_id: 6
+sequence_id: 7
 title: Interactive Poster Session + Coffee Break
-time: 1530 - 1600
+time: 1510 - 1540
 ---
