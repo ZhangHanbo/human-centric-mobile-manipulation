@@ -39,7 +39,7 @@ The submission portal will open on 1st Aug 2025, and continuously accept submiss
 
 * Submission portal opens: ~~1st Aug 2025~~
 * _1st_ call for papers deadline: ~~15th Aug 2025~~
-* Notification of acceptance (_1st_ call): 29th Aug 2025
+* Notification of acceptance (_1st_ call): ~~29th Aug 2025~~
 * _2nd_ call for papers deadline: 19th Sep 2025
 * Notification of acceptance (_2nd_ call): 3rd Oct 2025
 * Camera-ready submission due date (_1st_ & _2nd_ call): 10th Oct 2025
