@@ -1,0 +1,8 @@
+---
+sequence_id: 11
+title: 	'Monocular Person Localization under Camera Ego-Motion'
+authors: Yu Zhan, Hanjing Ye, Hong Zhang
+affil: SUSTech
+pdf: 00.pdf
+# img: 00.png
+---

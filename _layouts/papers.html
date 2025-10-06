@@ -18,7 +18,10 @@ layout: default
 		                	{% if paper.img %}
 		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% else %}
-		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+								<!-- <a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"> -->
+								<a href="{{ site.baseurl }}" target="_blank">
+		                    	<img class="paper-pic" src="{{ 'default.png' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" style="width:36px;height:48px;">
+								</a>
 		                    {% endif %}
 		                </p>
 		            </div>
@@ -37,12 +40,14 @@ layout: default
 		                <!-- Author affiliations (if provided) -->
 		                {% if paper.affil %}
 		                	<br>
+							<b>
 		                	{{ paper.affil }}
+							</b>
 		                {% endif %}
 		                <!-- Link to PDF (if provided) -->
 		                {% if paper.pdf %}
-		                	<br>
-		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
+		                	<!-- <br> -->
+		                	<!-- <a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a> -->
 		                {% endif %}
 		            </div>
 		        </td>
