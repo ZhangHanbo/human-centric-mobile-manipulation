@@ -4,5 +4,6 @@ title: 	'DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language N
 authors: Jiajun Jiang, Yiming Zhu, Zirui Wu, Jie Song
 affil: HKUST
 pdf: 00.pdf
+paper_url: https://openreview.net/pdf?id=Dv6xrts7qf
 # img: 00.png
 ---

@@ -19,7 +19,8 @@ layout: default
 		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% else %}
 								<!-- <a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"> -->
-								<a href="{{ site.baseurl }}" target="_blank">
+								<!-- <a href="{{ site.baseurl }}" target="_blank"> -->
+								<a href="{{ paper.paper_url }}" target="_blank">
 		                    	<img class="paper-pic" src="{{ 'default.png' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" style="width:36px;height:48px;">
 								</a>
 		                    {% endif %}

@@ -4,5 +4,6 @@ title: 	'OPENNAVMAP: Multi-Session Structure-Free Topometric Mapping for Scalabl
 authors: Jianhao Jiao, Changkun Liu, Jingwen Yu, Dimitrios Kanoulas
 affil: UCL, HKUST
 pdf: 00.pdf
+paper_url: https://openreview.net/pdf?id=zmTTpkbrvv
 # img: 00.png
 ---

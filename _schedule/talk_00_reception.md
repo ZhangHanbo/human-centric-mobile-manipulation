@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Title of the event
-title: Pre-event Lunch Reception
+title: Lunch Reception + Poster Session 1
 
 # Time of the event
 time: 1315 - 1400

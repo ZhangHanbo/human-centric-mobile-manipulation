@@ -41,6 +41,9 @@ layout: default
 		            	{% else %}
 		            		{{ scheduleitem.speaker }}
 		            	{% endif %}
+						{% if scheduleitem.comment %}
+							<br><i>{{ scheduleitem.comment }}</i>
+						{% endif %}
 		                <br>
 		                <!-- scheduleitem affiliation (if provided) -->
 		                {% if scheduleitem.affil_link %}

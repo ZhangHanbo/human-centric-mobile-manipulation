@@ -1,5 +1,5 @@
 ---
 sequence_id: 7
-title: Interactive Poster Session + Coffee Break
-time: 1510 - 1540
+title: Coffee Break + Poster Session 2
+time: 1515 - 1545
 ---

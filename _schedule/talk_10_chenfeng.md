@@ -1,10 +1,10 @@
 ---
-sequence_id: 6
+sequence_id: 10
 speaker: Chen Feng
 webpage: https://ai4ce.github.io/
 affil: NYU
 affil_link: https://ai4ce.github.io/
 img: chen.jpeg
-title: TBC
-time: 1450 - 1510
+title: 'Keynote 5 - Embodied Spatial Intelligence for Open-World Navigation'
+time: 1625 - 1645
 ---
