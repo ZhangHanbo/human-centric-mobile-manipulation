@@ -12,7 +12,6 @@ layout: home
 ##### <center>20th Oct 2025, Monday, 1:15pm - 6:00pm (UTC +8)</center>
 ##### <center>Grand Ballroom A, Hangzhou International Expo Center</center>
 
-
 <video controls="" width="100%" muted="" loop="" autoplay="">
 <source src="assets/img/own_banner_cropped.mp4" type="video/mp4">
 </video>
@@ -25,6 +24,10 @@ In particular, this workshop aims to answer the questions:
 * How do we detect failures of such systems, particularly for scenarios that are out-of-distribution for learned/foundation models?
 * What strategies can be employed to mitigate failures or recover from them?
 * What are suitable benchmarks to gauge progress in open world navigation?
+<br>
+
+### <center>OWN is Happening Online!</center>
+##### [<center>Join us on Zoom</center>](https://nus-sg.zoom.us/j/86303710165?pwd=e0vagJkdMd1OmDSZRFL58Kbu5fbIdx.1)
 <br>
 
 ### <center>Speakers and Panelists</center>
