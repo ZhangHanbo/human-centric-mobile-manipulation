@@ -26,6 +26,15 @@ In particular, this workshop aims to answer the questions:
 * What are suitable benchmarks to gauge progress in open world navigation?
 <br>
 
+### <center>Awards</center>
+##### 🏆 Best Paper: __"OPENNAVMAP: Multi-Session Structure-Free Topometric Mapping for Scalable Visual Navigation"__
+##### _Jianhao Jiao, Changkun Liu, Jingwen Yu, Dimitrios Kanoulas_ (UCL, HKUST)
+[[Paper](https://openreview.net/pdf?id=zmTTpkbrvv)] [[Video](https://drive.google.com/file/d/1bFKZstoTOoO_OOAB6hvKeVK5O_q2e-zq/view)]
+##### 🏆 Best Video: __"DualMap Failure Modes"__
+##### _Jiajun Jiang, Yiming Zhu, Zirui Wu, Jie Song_ (HKUST Guangzhou)
+[[Accompanying paper](https://openreview.net/pdf?id=Dv6xrts7qf)] [[Video](https://drive.google.com/file/d/1Kt4B9V-Fe4BhmhWKEhAJAHx3o0bMoSD1/view?usp=sharing)]
+<br>
+
 ### <center>OWN is Happening Online!</center>
 ##### [<center>Join us on Zoom</center>](https://nus-sg.zoom.us/j/86303710165?pwd=e0vagJkdMd1OmDSZRFL58Kbu5fbIdx.1)
 <br>
