@@ -37,7 +37,10 @@ In particular, this workshop aims to answer the questions:
 
 ### <center>OWN is Happening Online!</center>
 <center>
-<iframe width="784" height="441" src="https://www.youtube.com/embed/pmXba6nAypg?si=HNTRC9IfTeguKeJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="784" height="441" src="https://www.youtube.com/embed/pmXba6nAypg?si=HNTRC9IfTeguKeJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<!-- <iframe id="video" width="784" height="441" src="https://www.youtube.com/embed/pmXba6nAypg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pmXba6nAypg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </center>
 <br>
 
