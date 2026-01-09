@@ -1,7 +1,7 @@
 ---
 sequence_id: 5
-speaker: Wang Jiaming and team
-affil: NUS
-title: Technical Presentation - Winners of Earth Rovers Challenge 2025
-time: 1450 - 1500
+speaker: Keynote Speaker 3
+affil: —
+title: TBD
+time: 1445 - 1505
 ---

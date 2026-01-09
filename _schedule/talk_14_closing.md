@@ -1,6 +1,7 @@
 ---
-sequence_id: 14
+sequence_id: 16
 speaker: Organizers
-title: Closing Remarks & Best Paper/Video Award
-time: 1750 - 1800
+affil: —
+title: Closing Remarks & Best Demo Award
+time: 1710 - 1730
 ---

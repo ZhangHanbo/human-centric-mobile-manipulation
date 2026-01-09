@@ -1,6 +1,7 @@
 ---
-sequence_id: 12
-speaker: Moderator - Dr. Nicky Zimmerman
-title: Panel Discussion
-time: 1650 - 1730
+sequence_id: 11
+speaker: Invited Demo 4
+affil: —
+title: Live Demo 4 – Short Talk + Live Interaction
+time: 1645 - 1700
 ---

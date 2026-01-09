@@ -1,46 +1,59 @@
 ---
 layout: page
-title: Call for papers
+title: Call for Papers
 permalink: /callforpapers/
 ---
 
-We invite workshop paper submissions on ideas and experimental evaluations related to open-world navigation (OWN). Accepted papers will be released on the workshop website (as non-archival publications) after the conclusion of the workshop.
+We invite workshop paper submissions presenting **ideas, systems, and experimental studies** related to **human-centric mobile manipulation**.  
+Accepted papers will be released on the workshop website as **non-archival publications** after the conclusion of the workshop. Submissions may describe：
 
-Papers may be based on new and unpublished work, or may be an abstract based on prior publications. Authors whose work belongs to the former category may highlight this during submission. The organizers will strive to provide more comprehensive reviews for such papers.
+- New and unpublished work.
+- Published work.
+- Late-breaking ideas.
 
-### Topics of Interest
-We invite contributions in areas including, but not limited to the following navigation-related topics:
+## Topics of Interest
 
-* **Generalizing Navigation to the Open World**
-    * Generalizable perception/semantic understanding
-    * Generalizable control/motion generation
-    * Generalizable decision-making/reasoning/planning
-    * Generalizable, multimodal task specification
-    * World models for navigation
-    * End-to-end approaches for navigation
-* **Current Limitations of Navigation in the Open World**
-    * Failure modes of navigation systems
-    * Failure modes of learned/foundation models
-* **Handling Failures**
-    * Uncertainty estimation for learned/foundation models
-    * Out-of-distribution detection for learned/foundation models
-    * Failure detection in navigation
-    * Robustness to failures and failure handling approaches
-* **Datasets/Benchmarks**
-    * Large-scale datasets for OWN
-    * Benchmarks for OWN
+We welcome contributions in areas including, but not limited to, the following topics:
 
-### Submission Instructions and Important Dates:
-Submissions should be 2-4 pages (not including references), following the IROS format. The submission and review process will proceed through [OpenReview](https://openreview.net/group?id=IEEE.org/IROS/2025/Workshop/OWN). We encourage authors to include videos, code, or data as supplementary material, either in a zip file or through external links.
+* **Human-robot Interaction, Task Specification, and Shared Autonomy**
+  * Task specification for mobile manipulation in human-centered environments  
+  * Representations of goals, constraints, and human preferences  
+  * Human–robot interaction interface design  
+  * Shared autonomy and responsibility allocation between humans and robots  
+  * Online human intervention, feedback, and correction 
 
-The submission portal will open on 1st Aug 2025, and continuously accept submissions until 26th Sep 2025. We offer two calls for papers, with the first closing on 15th Aug 2025. Papers submitted by the first deadline will receive a review before the IROS early bird registration deadline. The second deadline on 19th Sep 2025 is the final deadline for all paper submissions.
+* **Human-aware Learning, Planning, and Control**
+  * Human-aware motion planning and manipulation
+  * Safety-aware planning and execution
+  * Passive and active effects of robot behavior on humans
+  * Learning from human preferences
+  * Social navigation and manipulation
+  * Foundation models for human-centered mobile manipulation
+  * Failure prediction, detection, and recovery
 
-**Important Dates**  (All deadlines are AoE):
+* **Benchmarks and Evaluation**
+  * Large-scale datasets
+  * Simulation and human modeling
+  * Benchmarks for human-centered mobile manipulation
+  * Metrics for human-robot interaction in mobile manipulation
 
-* Submission portal opens: ~~1st Aug 2025~~
-* _1st_ call for papers deadline: ~~15th Aug 2025~~
-* Notification of acceptance (_1st_ call): ~~29th Aug 2025~~
-* _2nd_ call for papers deadline: ~~19th Sep 2025~~ <font color="red">26th Sep 2025</font>
-* Notification of acceptance (_2nd_ call): ~~3rd Oct 2025~~ <font color="red">7th Oct 2025</font>
-* Camera-ready submission due date (_1st_ & _2nd_ call): ~~10th Oct 2025~~ <font color="red">14th Oct 2025</font>
-* Workshop date: 20th Oct 2025 (PM)
+## Submission Instructions
+
+- **Paper length**: 2–4 pages (excluding references)  
+- **Format**: RSS paper format  
+- **Submission platform**: [OpenReview](https://openreview.net/)
+- **Supplementary material**: Videos, code, or datasets are strongly encouraged and should be provided via external links
+
+Submissions will be reviewed based on **relevance, technical quality, clarity, and potential impact**. Selected papers may be invited for **oral presentations, poster sessions, or live demos** during the workshop.
+
+## Important Dates  
+*(All deadlines are Anywhere on Earth, AoE)*
+
+- Submission portal opens: **TBD**  
+- Notification of acceptance (1st call): **TBD**  
+- Camera-ready submission deadline: **TBD**  
+- **Workshop date**: **TBD**
+
+---
+
+If you have questions regarding submissions, please contact the organizers via the **Contact** page.

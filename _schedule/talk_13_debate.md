@@ -1,6 +1,7 @@
 ---
 sequence_id: 13
-speaker: Audience + Panelists
-title: Speed Debate
-time: 1730 - 1750
+speaker: Audience
+affil: —
+title: Audience Voting for Best Live Demo
+time: 1700 - 1710
 ---

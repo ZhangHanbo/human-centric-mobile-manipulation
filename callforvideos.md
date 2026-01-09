@@ -1,26 +1,28 @@
 ---
 layout: page
-title: Call for videos
+title: Call for Demos
 permalink: /callforvideos/
 ---
 
-We invite video contributions that highlight the challenges or failure modes of existing robot navigation systems. These videos will be screened during the workshop, and will provide discussion material to help identify key research directions for open world navigation. We are excited to announce that a Best Video award will be given at the workshop!
+We invite **live, interactive demos** showcasing human-centric mobile manipulation systems. All demos will be deployed and demonstrated through **[RoboMesh](https://tom-bridge.nusssi.com/robomesh/)**, a web-based platform that enables **online interaction with robots**.
 
-🏆 **Best Video Award**: FrodoBot Mini+ robot!
+Submitted demos should support real-time human–robot interaction via one or more of the following modalities:
+- Text or language-based commands  
+- Voice interaction  
+- Web-based gestures such as clicking, dragging, and pointing  
 
-Videos should focus on failures in robot navigation. We encourage contributors to also include some (if not all) of the following elements in their videos:
+Demos are expected to illustrate human–robot interaction, shared autonomy, human-aware planning, or human intervention and failure recovery in realistic mobile manipulation scenarios. **All live demos will be invited to present for oral talks.**
 
-* **(Required)** Clips of robot failing when performing a navigation task.
-* Brief description of the robot navigation system
-* Brief description of the nature of the failure/challenge encountered by the robot
+In addition to live demos, we also welcome **video demos** for systems that are not yet ready for live deployment. Video demos should clearly illustrate the interaction design, system behavior, and key challenges addressed, and may be selected during for discussion.
 
-_Disclaimer_: Organizers reserve the right to not screen any submitted video. However, all videos submitted before the deadline will be eligible for the Best Video Award.
+---
 
-### Submission Instructions and Important Dates:
-Submissions should be in MP4 format (H.264 encoding for better compatibility), and no longer than 1 minute. Videos are to be uploaded at this [Google Forms link](https://forms.gle/f1pzhfvBM4BZMaVC7).
+**Live Demo Submission Instructions and Important Dates**: Live demo submissions should be following this [GitHub]() repo to set up the robot and interaction interface. All demos will be invited to present for oral talks, please submit the slides via this [Google Form]().
 
-**Important Dates**  (All deadlines are AoE):
+**Video Submission Instructions and Important Dates**: Video demo submissions should be in MP4 format, and no longer than 1 minute. Videos are to be uploaded at this Upload via this [Google Form]()
 
-* Submission portal opens: ~~1st Aug 2025~~
-* Video submission deadline: 17th Oct 2025
-* Workshop date: 20th Oct 2025 (PM)
+**Important Dates** *(All deadlines are Anywhere on Earth, AoE)*:
+
+* Submission portal opens: **TBD**
+* Live Demo/Video submission deadline: **TBD**
+* Workshop date: **TBD**
